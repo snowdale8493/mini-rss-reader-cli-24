@@ -1,2 +1,9 @@
-# mini-rss-reader-cli-24
-A simple rss reader project
+# Rss Reader
+
+A simple rss reader project.
+\n
+## Getting Started
+
+```bash
+python rss.py
+```
